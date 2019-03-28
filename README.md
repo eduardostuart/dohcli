@@ -3,7 +3,7 @@
 # Install
 
 ```bash
-npm i -g doh-cli
+npm i -g dohcli
 ```
 
 # Usage
