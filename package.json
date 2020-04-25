@@ -12,14 +12,14 @@
   ],
   "author": {
     "name": "Eduardo Stuart",
-    "email": "hi@s.tuart.me",
+    "email": "hi@s.tuart.dev",
     "url": "s.tuart.dev"
   },
   "license": "MIT",
   "dependencies": {
-    "chalk": "^2.4.2",
+    "chalk": "^4.0.0",
     "cli-table": "^0.3.1",
-    "commander": "^2.19.0",
+    "commander": "^5.1.0",
     "google-dns": "^1.0.1"
   }
 }
