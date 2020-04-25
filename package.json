@@ -3,7 +3,7 @@
   "bin": {
     "doh": "./cli.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "DoH (DNS over https) command-line tool",
   "main": "./cli.js",
   "keywords": [
